@@ -1,4 +1,4 @@
-<h1>✨ Hola, soy Fátima pero los amigos me llaman Kumi</h1>
+<h1>✨ Hola, soy Fátima Kumi para los amigos</h1>
 
 Estoy en camino a convertirme en **la mejor ingeniera de inteligencia artificial del mundo**. No lo digo por decir: lo digo porque lo estoy construyendo paso a paso, con un plan real, mucho estudio, constancia y una idea muy clara de lo que quiero.
 
