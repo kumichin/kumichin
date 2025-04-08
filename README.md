@@ -1,16 +1,82 @@
-## Hi there 👋
+✨ Hola, soy Fátima pero los amigos me llaman Kumi
 
-<!--
-**kumichin/kumichin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estoy en camino a convertirme en **la mejor ingeniera de inteligencia artificial del mundo**. No lo digo por decir: lo digo porque lo estoy construyendo paso a paso, con un plan real, mucho estudio, constancia y una idea muy clara de lo que quiero.
 
-Here are some ideas to get you started:
+No vengo del mundo tech. Empecé desde cero, sin saber programar, sin lógica, sin inglés, y con cero euros. Pero con una motivación que no se compra y una determinación que no se rompe.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Empecé con la ingeniería de prompt probando cómo interactuar mejor con modelos ya creados (no hace falta mencionarlos, ¿verdad?) y, poco a poco, fui profundizando en cómo funcionan por dentro. Ahora estoy centrada en aprender programación, machine learning y todo lo necesario para convertirme en una ingeniera de IA completa, combinando teoría con proyectos reales.
+
+Estoy documentando todo este proceso en aqui en **GitHub**, **YouTube** y **LinkedIn**, porque compartir lo que aprendo me ayuda a reforzarlo, a comprobar que realmente lo entiendo y, de paso, tal vez a ayudar a quien lo necesite.
+
+---
+
+## 🚀 Misión
+
+Convertirme en una ingeniera de IA **referente a nivel mundial**, que sepa crear soluciones reales, útiles y éticas con inteligencia artificial. Y no solo saber hacerlo: quiero ser de las que lideran, de las que impulsan el cambio. Me gustan los retos difíciles, eso es un hecho. Siempre me he puesto metas altas, desde que leí de pequeña aquel refrán: **Si quieres dispararle a un árbol, apunta a la luna**. No recuerdo si era exactamente así, pero me impactó mucho y, desde entonces, lo tengo presente en todo lo que hago.
+Yo quiero demostrar que sí se puede llegar lejos empezando desde cero, sin recursos, sin gastar un solo euro en cursos o certificados, solo con pasión, perseverancia y muchísima determinación.
+
+---
+
+## 🧠 Plan de estudios (6 meses intensivos)
+
+Estoy siguiendo un plan de estudios 100% autodidacta, basado en cursos **gratuitos y con certificado**, enfocado en:
+
+- Matemáticas
+- Programación en Python
+- Machine Learning y Deep Learning
+- NLP, visión por computador y modelos generativos
+- Ética, liderazgo y despliegue en producción
+- Inglés técnico y general con certificaciones A1 a C2
+- Habilidades de full stack developer
+- lógica de programación
+
+Todo lo estoy documentando aquí, en GitHub.
+
+🔗 Ver el planning completo → [`Plan_de_estudios_IA.md`](./Plan_de_estudios_IA.md)
+
+---
+
+## 📚 Habilidades en progreso
+
+- Python, Pandas, Matplotlib, Seaborn
+- Machine Learning (scikit-learn)
+- Deep Learning (Keras, TensorFlow)
+- NLP y Transformers (Hugging Face)
+- SQL avanzado
+- Ciencia de Datos
+- Visualización de datos
+- Inglés técnico para IA (certificaciones OM Personal A1 a C2)
+- Fundamentos matemáticos (álgebra, estadística, probabilidad)
+- Ética en IA y liderazgo de equipos tech
+- Javascript
+- Librerias Front-End
+
+---
+
+## 🧪 Proyectos (en construcción)
+
+Estoy desarrollando proyectos prácticos durante la formación ya que los conocimientos si la práctica no son de mucho y para mi objetivo necesitaré mucha práctica en proyectos reales. Algunos de los que están en marcha:
+
+- 📊 Visualización y análisis de datasets reales
+- 🤖 Modelos de clasificación con scikit-learn
+- 🧠 Red neuronal con Keras para predicción
+- 📝 NLP clásico con TF-IDF y BERT
+- 🩺 Aplicación de IA en medicina (clasificación de imágenes médicas)
+
+→ Todo estará aquí pronto, bien documentado y con repos separados.
+
+---
+
+## 📫 Contacto
+
+- **LinkedIn:** www.linkedin.com/in/kumiko-aisaka
+- **Youtube:**  Muy pronto disponible
+- **Correo:** Kumikoaisaka@gmail.com
+
+Si conectamos, que sea con propósito.
+
+---
+
+ ###✊ La pregunta que resolveremos en unos meses es: ¿lo lograré? No lo sé, pero mi intención es que sí. Aunque, en realidad, nunca será una pérdida de tiempo, porque todo lo que invierto en formación y aprendizaje jamás lo considero tiempo perdido.
+
+###Si has llegado hasta aquí, te invito a acompañarme en este viaje desafiante pero muy intenso.
