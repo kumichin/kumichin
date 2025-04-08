@@ -5,9 +5,9 @@ Estoy en camino a convertirme en **la mejor ingeniera de inteligencia artificial
 
 No vengo del mundo tech. Empecé desde cero, sin saber programar, sin lógica, sin inglés, y con cero euros. Pero con una motivación que no se compra y una determinación que no se rompe.
 
-Empecé con la ingeniería de prompt probando cómo interactuar mejor con modelos ya creados (no hace falta mencionarlos, ¿verdad?) y, poco a poco, fui profundizando en cómo funcionan por dentro. Ahora estoy centrada en aprender programación, machine learning y todo lo necesario para convertirme en una ingeniera de IA completa, combinando teoría con proyectos reales.
+Empecé con la ingeniería de prompt interactuando con modelos conocidos, afinando cómo formular prompts más eficaces y, poco a poco, fui profundizando en cómo funcionan por dentro. Ahora estoy centrada en aprender programación, machine learning y todo lo necesario para convertirme en una ingeniera de IA completa, combinando teoría con proyectos reales.
 
-Estoy documentando todo este proceso en aqui en **GitHub**, **YouTube** y **LinkedIn**, porque compartir lo que aprendo me ayuda a reforzarlo, a comprobar que realmente lo entiendo y, de paso, tal vez a ayudar a quien lo necesite.
+Estoy documentando todo este proceso aqui en **GitHub**, **YouTube** y **LinkedIn**, porque compartir lo que aprendo me ayuda a reforzarlo, a comprobar que realmente lo entiendo y, de paso, tal vez a ayudar a quien lo necesite.
 
 ---
 
@@ -78,6 +78,6 @@ Si conectamos, que sea con propósito.
 
 ---
 
- ### ✊ La pregunta que resolveremos en unos meses es: ¿lo lograré? No lo sé, pero mi intención es que sí. Aunque, en realidad, nunca será una pérdida de tiempo, porque todo lo que invierto en formación y aprendizaje jamás lo considero tiempo perdido.
+ ### ✊ La pregunta que resolveremos en unos meses es: ¿lo lograré? No lo sé, pero mi intención es que sí. Aunque, en realidad, nunca será una pérdida de tiempo, porque todo lo que invierto en formación y aprendizaje jamás lo considero tiempo perdido y si no lo consigo a la primera… lo intentaré otra vez. Y otra más.
 
 ### Si has llegado hasta aquí, te invito a acompañarme en este viaje desafiante pero muy intenso.
