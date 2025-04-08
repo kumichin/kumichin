@@ -55,7 +55,7 @@ Todo lo estoy documentando aquí, en GitHub.
 
 ## 🧪 Proyectos (en construcción)
 
-Estoy desarrollando proyectos prácticos durante la formación ya que los conocimientos si la práctica no son de mucho y para mi objetivo necesitaré mucha práctica en proyectos reales. Algunos de los que están en marcha:
+Estoy desarrollando proyectos prácticos durante la formación ya que los conocimientos sin la práctica no son de mucho y para mi objetivo necesitaré mucha práctica en proyectos reales. Algunos de los que están en marcha:
 
 - 📊 Visualización y análisis de datasets reales
 - 🤖 Modelos de clasificación con scikit-learn
