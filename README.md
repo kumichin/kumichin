@@ -77,6 +77,6 @@ Si conectamos, que sea con propósito.
 
 ---
 
- ###✊ La pregunta que resolveremos en unos meses es: ¿lo lograré? No lo sé, pero mi intención es que sí. Aunque, en realidad, nunca será una pérdida de tiempo, porque todo lo que invierto en formación y aprendizaje jamás lo considero tiempo perdido.
+ ### ✊ La pregunta que resolveremos en unos meses es: ¿lo lograré? No lo sé, pero mi intención es que sí. Aunque, en realidad, nunca será una pérdida de tiempo, porque todo lo que invierto en formación y aprendizaje jamás lo considero tiempo perdido.
 
-###Si has llegado hasta aquí, te invito a acompañarme en este viaje desafiante pero muy intenso.
+### Si has llegado hasta aquí, te invito a acompañarme en este viaje desafiante pero muy intenso.
