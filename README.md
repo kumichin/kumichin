@@ -1,5 +1,5 @@
-<h1>✨ Hola, soy Fátima</h1>
-<h2>Mis amigos me llaman Kumi y este es mi propósito</h2>
+<h1>✨ Hola, soy Kumi</h1>
+<h2>...y este es mi propósito</h2>
 
 Estoy en camino a convertirme en **la mejor ingeniera de inteligencia artificial del mundo**. No lo digo por decir: lo digo porque lo estoy construyendo paso a paso, con un plan real, mucho estudio, constancia y una idea muy clara de lo que quiero.
 
