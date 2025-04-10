@@ -33,8 +33,7 @@ Estoy siguiendo un plan de estudios 100% autodidacta, basado en cursos **gratuit
 
 Todo lo estoy documentando aquí, en GitHub.
 
-🔗 Ver el planning completo → [`Plan_de_estudios_IA.md`](./Roadmap-ia-engineer
-)
+🔗 Ver el planning completo → [`Plan_de_estudios_IA.md`](https://github.com/kumichin/Roadmap-ia-engineer.git)
 
 ---
 
