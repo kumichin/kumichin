@@ -70,9 +70,9 @@ Estoy desarrollando proyectos prácticos durante la formación ya que los conoci
 
 ## 📫 Contacto
 
-- **LinkedIn:** www.linkedin.com/in/kumiko-aisaka
-- **Youtube:**  www.youtube.com/@IASinExcusas
-- **Correo:** Kumikoaisaka@gmail.com
+- **[LinkedIn:](www.linkedin.com/in/kumiko-aisaka)**
+- **[Youtube:](www.youtube.com/@IASinExcusas)**
+- **[Correo:](Kumikoaisaka@gmail.com)**
 
 Si conectamos, que sea con propósito.
 
