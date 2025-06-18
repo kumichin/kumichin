@@ -1,4 +1,4 @@
-# 👩‍💻 kimiko code
+# 👩‍💻 Kumi 
 
 Apasionada por la ciencia de datos, en pleno entrenamiento intensivo para alcanzar la excelencia profesional.  
 Actualmente estoy consolidando una base sólida en estadística, análisis de datos y modelado, con un enfoque claro:  
