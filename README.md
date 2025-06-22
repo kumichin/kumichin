@@ -8,10 +8,18 @@ convertirme en una profesional altamente capacitada, capaz de aportar valor real
 
 ### 📚 En qué estoy trabajando
 
-- Fortaleciendo fundamentos en Python, Pandas y Numpy.
-- Dominando estadística aplicada a la ciencia de datos.
-- Práctica diaria con proyectos personales y casos reales.
-- Entrenando el pensamiento crítico y la claridad en la comunicación de resultados.
+- **Fundamentos Sólidos en Programación y Análisis de Datos:**
+    - Profundizando en **Python** (con enfoque en ciencia de datos), **Pandas** (manipulación y análisis de DataFrames), y **NumPy** (computación numérica eficiente).
+- **Visualización de Datos:**
+    - Dominando **Matplotlib**, **Seaborn** y **Plotly** para crear visualizaciones informativas, atractivas y que comuniquen *insights* de forma efectiva.
+- **Estadística y Probabilidad para la Ciencia de Datos:**
+    - Consolidando conceptos clave de **Estadística** (distribuciones, inferencia, pruebas de hipótesis...) y **Probabilidad** (reglas, combinatoria, Teorema de Bayes...) para un análisis de datos robusto y toma de decisiones basada en evidencia.
+- **Exploración de Datos (EDA) Profesional:**
+    - Aplicando técnicas avanzadas de **limpieza y exploración de datos** con datasets reales, extrayendo *insights* valiosos y presentando hallazgos de forma clara.
+- **Ingeniería de Características (Feature Engineering) Básica:**
+    - Aprendiendo sobre escalado, codificación y creación de nuevas variables para preparar los datos.
+- **Desarrollo de Proyectos Prácticos y Pensamiento Analítico:**
+    - Fortaleciendo el **pensamiento crítico** y la **claridad en la comunicación** de resultados, a través de **proyectos personales, casos reales y la simulación de encargos de empresa**, construyendo un portfolio sólido y relevante para el mercado laboral.
 
 ---
 
