@@ -6,24 +6,23 @@
 ---
 
 ## 🚀 Sobre mí
-Soy una entusiasta del análisis de datos, consolidando una sólida base en estadística, programación y modelado. Mi propósito: **convertirme en una profesional altamente competente**, que transforma datos en decisiones con valor.
+Soy una entusiasta de los datos y la IA, consolidando una sólida base en estadística, programación y modelado. Mi propósito: **convertirme en una profesional altamente competente**, que transforma datos en decisiones con valor.
 
 ---
 
 ## 🛠️ Habilidades & Tecnologías
+
 ## 🛠️ Habilidades técnicas
 
-| Área                              | Habilidades clave |
-|-----------------------------------|--------------------|
-| **Manipulación de datos**         | Manejo profesional de DataFrames con Pandas · Computación numérica eficiente con NumPy |
-| **Limpieza de datos**             | Detección y tratamiento de valores nulos · Eliminación de duplicados · Gestión de outliers · Corrección de errores tipográficos · Normalización de formatos |
-| **Visualización de datos**        | Diseño de gráficos claros y efectivos · Storytelling visual · Dominio de Matplotlib, Seaborn y Plotly |
-| **Estadística aplicada**         | Estadística descriptiva · Análisis de distribuciones · Inferencia estadística · Pruebas de hipótesis · Intervalos de confianza · Comparación de grupos · Probabilidad avanzada (incl. Teorema de Bayes) · Aplicación del pensamiento estadístico a la toma de decisiones |
-| **Exploración de datos (EDA)**    | Análisis exploratorio profesional · Detección de patrones y anomalías · Presentación de insights de forma accionable · Aplicación en datasets reales |
-| **Ingeniería de características** | Escalado de variables · Codificación de variables categóricas · Creación de nuevas features · Preparación avanzada de datos para modelado |
-| **Evaluación de modelos (básico)**| Interpretación profesional de métricas (Accuracy, Precision, Recall, F1-Score) · Generación automática de reportes · Construcción y análisis de matrices de confusión |
-| **Pensamiento analítico**         | Desarrollo de criterio técnico propio · Toma de decisiones basada en datos y negocio · Priorización de insights relevantes |
-| **Comunicación técnica**          | Documentación profesional en notebooks · Presentación de resultados · Diseño de entregables orientados a producción y decisión empresarial |
+- Manipulación y limpieza de datos  
+- Visualización de datos (Matplotlib, Seaborn, Plotly)  
+- Estadística aplicada e inferencia  
+- Ingeniería de características básica  
+- Modelos predictivos y machine learning clásico  
+- Evaluación y análisis de modelos  
+- Pensamiento analítico y toma de decisiones basadas en datos  
+- Comunicación técnica y storytelling con datos  
+- Documentación profesional y notebooks limpios
 
 ---
 
@@ -41,29 +40,80 @@ Creo en aprender a fondo, construyendo sobre una base sólida y desarrollando un
 
 ---
 
-## 📈 Indicadores de mi desarrollo
+## 📈 GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kumichin&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+###
 
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+</div>
 
+###
 
-- **Comando dinámico**: Estadísticas en tiempo real de mis contribuciones en GitHub.
-- **Contador de visitantes**: Analiza el impacto de mi perfil.
-- **Logros visibles**: Mi racha de commits y lenguajes más usados.
+<br clear="both">
 
-*(Se añaden mediante GitHub Actions y GitHub‑Readme‑Stats)* :contentReference[oaicite:1]{index=1}
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" height="60" alt="d3js logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=kumichin&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=20&order=3" height="154" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=kumichin&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumichin&radius=16&theme=tokyo-night&area=true&order=5&hide_border=false&hide_title=true" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kumichin/kumichin/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kumichin/kumichin/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kumichin/kumichin/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 ---
-
-## 🔭 ¿Qué sigue?
-- **Aprender ML avanzado**: Técnicas de modelado e inteligencia artificial.
-- **Ampliar mi portfolio**: Nuevos proyectos con datasets reales de impacto social o sector privado.
-- **Contribuir a la comunidad**: Compartir open‑source y colaborar en iniciativas de ciencia de datos.
 
 ---
 
 ## 📬 Conectemos
-[LinkedIn](https://www.linkedin.com/in/tu-perfil) | [Twitter](https://twitter.com/tu-perfil) | [Email](mailto:tu.email@dominio.com)
+[LinkedIn](www.linkedin.com/in/kumiko-aisaka) |  | [Email](kumikoaisaka@gmail.com)
+![](https://komarev.com/ghpvc/?username=kumichin&color=006bed)
 
 ---
 
