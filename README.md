@@ -6,11 +6,39 @@
 ---
 
 ## 🚀 Sobre mí
-Soy una entusiasta de los datos y la IA, consolidando una sólida base en estadística, programación y modelado. Mi propósito: **convertirme en una profesional altamente competente**, que transforma datos en decisiones con valor.
+Soy una entusiasta de los datos y la inteligencia artificial, construyendo una base sólida en estadística, programación y modelado. Mi objetivo: convertirme en una profesional altamente competente, capaz de transformar datos en decisiones con valor real.
+
+📬 Me puedes encontrar aquí:
+<div align="center">
+  <a href="https://www.linkedin.com/in/kumiko-aisaka" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://www.twitch.tv/tu_usuario" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo" />
+  </a>
+  <a href="https://dev.to/kumichin" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo" />
+  </a>
+  <a href="https://www.youtube.com/@tu_usuario" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
+  </a>
+  <a href="https://www.kaggle.com/fatimais" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="kaggle logo" />
+  </a>
+  <a href="https://www.drivendata.org/users/+Ku._mi-/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=DrivenData&logo=data&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="drivendata logo" />
+  </a>
+  <a href="https://www.datacamp.com/projects" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=DataCamp&logo=datacamp&label=&color=03EF62&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="datacamp logo" />
+  </a>
+  <a href="Kumikoaisaka@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+</div>
+
+
 
 ---
-
-## 🛠️ Habilidades & Tecnologías
 
 ## 🛠️ Habilidades técnicas
 
@@ -26,32 +54,7 @@ Soy una entusiasta de los datos y la IA, consolidando una sólida base en estad�
 
 ---
 
-## 📚 Proyectos destacados
-
-- **Análisis Exploratorio (EDA, Plotly y Dash)**: Análisis de 700+ JOBs Data of AI & Data Fields | 2025
-- **Proyecto de modelado**: Credit Card Fraud Detection
-
-🔗 *Todos los notebooks están en mi repositorio, bien estructurados y listos para producción.*
-
----
-
-## 🌱 Filosofía de trabajo
-Creo en aprender a fondo, construyendo sobre una base sólida y desarrollando un criterio efectivo. Cada proyecto tiene **intención, claridad y propósito**, y aplico un enfoque reflexivo orientado a la resolución de problemas reales.
-
----
-
-## 📈 GitHub Stats
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-</div>
-
-###
+## Skills
 
 <br clear="both">
 
@@ -89,6 +92,23 @@ Creo en aprender a fondo, construyendo sobre una base sólida y desarrollando un
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
 </div>
 
+## 📚 Proyectos destacados
+
+- **Análisis Exploratorio (EDA, Plotly y Dash)**: Análisis de 700+ JOBs Data of AI & Data Fields | 2025 (En proceso)
+- **Proyecto de modelado Credit Card Fraud Detection**: Análisis y creación de un modelo que predice si una transacción es legitima o fraudulenta (En proceso)
+- **Muchos más proyectos se encuentran en camino**
+
+🔗 *Todos los notebooks están en mi repositorio, bien estructurados y listos para producción.*
+
+---
+
+## 🌱 Filosofía de trabajo
+Creo en aprender a fondo, construyendo sobre una base sólida y desarrollando un criterio efectivo. Cada proyecto tiene **intención, claridad y propósito**, y aplico un enfoque reflexivo orientado a la resolución de problemas reales.
+
+---
+
+
+
 ###
 
 <div align="center">
@@ -112,8 +132,8 @@ Creo en aprender a fondo, construyendo sobre una base sólida y desarrollando un
 ---
 
 ## 📬 Conectemos
-[LinkedIn](www.linkedin.com/in/kumiko-aisaka) |  | [Email](kumikoaisaka@gmail.com)
-![](https://komarev.com/ghpvc/?username=kumichin&color=006bed)
+[LinkedIn](www.linkedin.com/in/kumiko-aisaka) |  | 
+|| ![](https://komarev.com/ghpvc/?username=kumichin&color=006bed)
 
 ---
 
