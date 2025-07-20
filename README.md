@@ -60,6 +60,7 @@ Soy una entusiasta de los datos y la inteligencia artificial, construyendo una b
 
 <div align="left">
 
+  <!-- Bloque superior: Iconos Devicons -->
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
   <img width="12" />
 
@@ -72,23 +73,6 @@ Soy una entusiasta de los datos y la inteligencia artificial, construyendo una b
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo" />
   <img width="12" />
 
-  <!-- Matplotlib / Seaborn / Plotly / Dash / Scikit-learn -->
-  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" alt="matplotlib badge" />
-  <img width="8" />
-
-  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white" height="30" alt="seaborn badge" />
-  <img width="8" />
-
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" height="30" alt="plotly badge" />
-  <img width="8" />
-
-  <img src="https://img.shields.io/badge/Dash-000000?style=for-the-badge&logo=python&logoColor=white" height="30" alt="dash badge" />
-  <img width="8" />
-
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="30" alt="scikit-learn badge" />
-  <img width="8" />
-
-  <!-- Continúan los iconos previos -->
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
   <img width="12" />
 
@@ -106,7 +90,21 @@ Soy una entusiasta de los datos y la inteligencia artificial, construyendo una b
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo" />
 
+  <br><br>
+
+  <!-- Bloque inferior: Badges de librerías -->
+  <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=python&logoColor=white" height="30" alt="matplotlib badge" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white" height="30" alt="seaborn badge" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" height="30" alt="plotly badge" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Dash-3F4F75?style=for-the-badge&logo=python&logoColor=white" height="30" alt="dash badge" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="30" alt="scikit-learn badge" />
+
 </div>
+
 
 
 ## 📚 Proyectos destacados
