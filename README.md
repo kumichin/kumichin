@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola! Soy Kumi</h1>
+<h1 align="center">👋 Hola! Soy Fátima I.S</h1>
 <p align="center">
   Apasionada por la ciencia de datos | En formación para generar impacto real con datos 📊
 </p>
