@@ -43,7 +43,7 @@ Creo en aprender a fondo, construyendo sobre una base sólida y desarrollando un
 
 ## 📈 Indicadores de mi desarrollo
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumichin&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kumichin&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kumichin&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)                    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumichin&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - **Comando dinámico**: Estadísticas en tiempo real de mis contribuciones en GitHub.
