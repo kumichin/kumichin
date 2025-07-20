@@ -13,24 +13,14 @@ Soy una entusiasta de los datos y la inteligencia artificial, construyendo una b
   <a href="https://www.linkedin.com/in/kumiko-aisaka" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://www.twitch.tv" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo" />
-  </a>
   <a href="https://dev.to/kumichin" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo" />
   </a>
-  <a href="https://www.youtube.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
-  </a>
+ 
   <a href="https://www.kaggle.com/fatimais" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="kaggle logo" />
   </a>
-  <a href="https://www.drivendata.org/users/+Ku._mi-/">
-    <img src="https://img.shields.io/static/v1?message=DrivenData&logo=data&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="drivendata logo" />
-  </a>
-  <a href="https://www.datacamp.com/portfolio/enniocode">
-    <img src="https://img.shields.io/static/v1?message=DataCamp&logo=datacamp&label=&color=03EF62&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="datacamp logo" />
-  </a>
+ 
   <a href="mailto:Kumikoaisaka@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
 </a>
