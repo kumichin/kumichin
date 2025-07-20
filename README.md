@@ -112,10 +112,13 @@ Creo en aprender a fondo, construyendo sobre una base sólida y desarrollando un
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kumichin&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=20&order=3" height="154" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=kumichin&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumichin&radius=16&theme=tokyo-night&area=true&order=5&hide_border=false&hide_title=true" height="300" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=kumichin&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=20" height="154" alt="streak graph" />
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=kumichin&theme=tokyonight&row=1&column=6&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumichin&radius=16&theme=tokyo-night&area=true&hide_border=false&hide_title=true" height="300" alt="activity-graph graph" />
 </div>
+
 
 ###
 
@@ -125,18 +128,12 @@ Creo en aprender a fondo, construyendo sobre una base sólida y desarrollando un
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kumichin/kumichin/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
 ---
 
 ---
-
-## 📬 Conectemos
-[LinkedIn](www.linkedin.com/in/kumiko-aisaka) |  | 
-|| ![](https://komarev.com/ghpvc/?username=kumichin&color=006bed)
-
----
-
 > "La excelencia no es un acto, es un hábito." 😉
+---
 
+
+ ![](https://komarev.com/ghpvc/?username=kumichin&color=006bed)
 
