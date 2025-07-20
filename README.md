@@ -29,10 +29,8 @@ Soy una entusiasta del análisis de datos, consolidando una sólida base en esta
 
 ## 📚 Proyectos destacados
 
-- **Análisis Exploratorio (EDA)**: Limpieza en profundidad y visualización de datasets reales para descubrir patrones críticos.
-- **Proyecto de modelado**: Implementación de regresión/clasificación, con pipeline de preprocesamiento y evaluación robusta.
-- **Simulación de casos profesionales**: Documentación clara y presentación tipo informe, como en entornos reales.
-- **Ingeniería de características**: Escalado, codificación y creación de variables para mejorar modelos predictivos.
+- **Análisis Exploratorio (EDA, Plotly y Dash)**: Análisis de 700+ JOBs Data of AI & Data Fields | 2025
+- **Proyecto de modelado**: Credit Card Fraud Detection
 
 🔗 *Todos los notebooks están en mi repositorio, bien estructurados y listos para producción.*
 
@@ -44,6 +42,8 @@ Creo en aprender a fondo, construyendo sobre una base sólida y desarrollando un
 ---
 
 ## 📈 Indicadores de mi desarrollo
+
+[![card](https://github-readme-stats.vercel.app/api?username=kumichin&theme=Tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 - **Comando dinámico**: Estadísticas en tiempo real de mis contribuciones en GitHub.
 - **Contador de visitantes**: Analiza el impacto de mi perfil.
 - **Logros visibles**: Mi racha de commits y lenguajes más usados.
