@@ -13,89 +13,108 @@ Soy una entusiasta de los datos y la inteligencia artificial, construyendo una b
   <a href="https://www.linkedin.com/in/kumiko-aisaka" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://www.twitch.tv/tu_usuario" target="_blank">
+  <a href="https://www.twitch.tv" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo" />
   </a>
   <a href="https://dev.to/kumichin" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo" />
   </a>
-  <a href="https://www.youtube.com/@tu_usuario" target="_blank">
+  <a href="https://www.youtube.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
   </a>
   <a href="https://www.kaggle.com/fatimais" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="kaggle logo" />
   </a>
-  <a href="https://www.drivendata.org/users/+Ku._mi-/" target="_blank">
+  <a href="https://www.drivendata.org/users/+Ku._mi-/">
     <img src="https://img.shields.io/static/v1?message=DrivenData&logo=data&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="drivendata logo" />
   </a>
-  <a href="https://www.datacamp.com/projects" target="_blank">
+  <a href="https://www.datacamp.com/portfolio/enniocode">
     <img src="https://img.shields.io/static/v1?message=DataCamp&logo=datacamp&label=&color=03EF62&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="datacamp logo" />
   </a>
-  <a href="Kumikoaisaka@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
+  <a href="mailto:Kumikoaisaka@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+</a>
 </div>
 
 
 
 ---
 
-## 🛠️ Habilidades técnicas
+## 🛠️ Habilidades técnicas y herramientas
 
-- Manipulación y limpieza de datos  
-- Visualización de datos (Matplotlib, Seaborn, Plotly)  
-- Estadística aplicada e inferencia  
-- Ingeniería de características básica  
-- Modelos predictivos y machine learning clásico  
-- Evaluación y análisis de modelos  
-- Pensamiento analítico y toma de decisiones basadas en datos  
-- Comunicación técnica y storytelling con datos  
-- Documentación profesional y notebooks limpios
+- Python para ciencia de datos
+- Manipulación y limpieza de datos (pandas, numpy)
+- Visualización profesional (Matplotlib, Seaborn, Plotly)
+- Estadística aplicada, inferencia y probabilidad
+- Modelos predictivos con scikit-learn (árboles, random forest...)
+- Ingeniería de características y preparación de datos
+- Evaluación de modelos y comunicación de resultados
+- Desarrollo de notebooks profesionales y reproducibles
+- Pensamiento analítico y toma de decisiones basada en datos
 
 ---
 
-## Skills
+### Herramientas:
 
 <br clear="both">
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+
+  <!-- Matplotlib / Seaborn / Plotly / Dash / Scikit-learn -->
+  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" alt="matplotlib badge" />
+  <img width="8" />
+
+  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white" height="30" alt="seaborn badge" />
+  <img width="8" />
+
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" height="30" alt="plotly badge" />
+  <img width="8" />
+
+  <img src="https://img.shields.io/badge/Dash-000000?style=for-the-badge&logo=python&logoColor=white" height="30" alt="dash badge" />
+  <img width="8" />
+
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="30" alt="scikit-learn badge" />
+  <img width="8" />
+
+  <!-- Continúan los iconos previos -->
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" height="60" alt="d3js logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo" />
+
 </div>
+
 
 ## 📚 Proyectos destacados
 
-- **Análisis Exploratorio (EDA, Plotly y Dash)**: Análisis de 700+ JOBs Data of AI & Data Fields | 2025 (En proceso)
-- **Proyecto de modelado Credit Card Fraud Detection**: Análisis y creación de un modelo que predice si una transacción es legitima o fraudulenta (En proceso)
+- 📊 **Análisis exploratorio profesional (EDA + Plotly + Dash)**  
+  Exploración avanzada de ofertas laborales en IA y datos (700+ registros). Extracción de insights y visualizaciones interactivas. | 2025 (En construcción como parte de mi portfolio profesional.)
+- 🛡️ **Detección de fraudes en tarjetas bancarias**  
+  Desarrollo de un modelo predictivo para clasificación de transacciones legítimas y fraudulentas. Trabajo con datasets reales y técnicas de ingeniería de características.(En construcción como parte de mi portfolio profesional)
 - **Muchos más proyectos se encuentran en camino**
 
 🔗 *Todos los notebooks están en mi repositorio, bien estructurados y listos para producción.*
@@ -120,18 +139,10 @@ Creo en aprender a fondo, construyendo sobre una base sólida y desarrollando un
 </div>
 
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kumichin/kumichin/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kumichin/kumichin/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kumichin/kumichin/output/pacman-contribution-graph.svg">
-</picture>
-
 ---
-
 ---
 > "La excelencia no es un acto, es un hábito." 😉
+---
 ---
 
 
