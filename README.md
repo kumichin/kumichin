@@ -11,28 +11,19 @@ Soy una entusiasta del análisis de datos, consolidando una sólida base en esta
 ---
 
 ## 🛠️ Habilidades & Tecnologías
-<table>
-  <tr>
-    <td><strong>Lenguajes y librerías</strong></td>
-    <td>Python · Pandas · NumPy</td>
-  </tr>
-  <tr>
-    <td><strong>Visualización</strong></td>
-    <td>Matplotlib · Seaborn · Plotly</td>
-  </tr>
-  <tr>
-    <td><strong>Estadística & Probabilidad</strong></td>
-    <td>Inferencia · Pruebas de hipótesis · Bayes</td>
-  </tr>
-  <tr>
-    <td><strong>Procesamiento de datos</strong></td>
-    <td>EDA · Feature Engineering · Limpieza avanzada</td>
-  </tr>
-  <tr>
-    <td><strong>Comunicación & Pensamiento analítico</strong></td>
-    <td>Notebooks documentados · Visual storytelling · Insights accionables</td>
-  </tr>
-</table>
+## 🛠️ Habilidades técnicas
+
+| Área                              | Habilidades clave |
+|-----------------------------------|--------------------|
+| **Manipulación de datos**         | Manejo profesional de DataFrames con Pandas · Computación numérica eficiente con NumPy |
+| **Limpieza de datos**             | Detección y tratamiento de valores nulos · Eliminación de duplicados · Gestión de outliers · Corrección de errores tipográficos · Normalización de formatos |
+| **Visualización de datos**        | Diseño de gráficos claros y efectivos · Storytelling visual · Dominio de Matplotlib, Seaborn y Plotly |
+| **Estadística aplicada**         | Estadística descriptiva · Análisis de distribuciones · Inferencia estadística · Pruebas de hipótesis · Intervalos de confianza · Comparación de grupos · Probabilidad avanzada (incl. Teorema de Bayes) · Aplicación del pensamiento estadístico a la toma de decisiones |
+| **Exploración de datos (EDA)**    | Análisis exploratorio profesional · Detección de patrones y anomalías · Presentación de insights de forma accionable · Aplicación en datasets reales |
+| **Ingeniería de características** | Escalado de variables · Codificación de variables categóricas · Creación de nuevas features · Preparación avanzada de datos para modelado |
+| **Evaluación de modelos (básico)**| Interpretación profesional de métricas (Accuracy, Precision, Recall, F1-Score) · Generación automática de reportes · Construcción y análisis de matrices de confusión |
+| **Pensamiento analítico**         | Desarrollo de criterio técnico propio · Toma de decisiones basada en datos y negocio · Priorización de insights relevantes |
+| **Comunicación técnica**          | Documentación profesional en notebooks · Presentación de resultados · Diseño de entregables orientados a producción y decisión empresarial |
 
 ---
 
