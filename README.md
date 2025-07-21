@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hola! Soy Fátima I.S</h1>
 <p align="center">
-  Apasionada por la ciencia de datos | En formación para generar impacto real con datos 📊
+  Apasionada por la ciencia de datos | Creciendo como científica de datos enfocada en el impacto 📊
 </p>
 
 ---
@@ -21,9 +21,6 @@ Soy una entusiasta de los datos y la inteligencia artificial, construyendo una b
     <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="kaggle logo" />
   </a>
  
-  <a href="mailto:Kumikoaisaka@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-</a>
 </div>
 
 
@@ -50,39 +47,32 @@ Soy una entusiasta de los datos y la inteligencia artificial, construyendo una b
 
 <div align="left">
 
-  <!-- Bloque superior: Iconos Devicons -->
+  <!-- 🚀 Bloque superior: Iconos Devicons -->
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
   <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo" />
   <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo" />
   <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo" />
   <img width="12" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="60" alt="scikit-learn logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
   <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo" />
   <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo" />
   <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" />
   <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo" />
   <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo" />
 
   <br><br>
 
-  <!-- Bloque inferior: Badges de librerías -->
+  <!-- 📦 Bloque inferior: Badges -->
   <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=python&logoColor=white" height="30" alt="matplotlib badge" />
   <img width="8" />
   <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white" height="30" alt="seaborn badge" />
@@ -91,11 +81,14 @@ Soy una entusiasta de los datos y la inteligencia artificial, construyendo una b
   <img width="8" />
   <img src="https://img.shields.io/badge/Dash-3F4F75?style=for-the-badge&logo=python&logoColor=white" height="30" alt="dash badge" />
   <img width="8" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="30" alt="scikit-learn badge" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=python&logoColor=white" height="30" alt="scipy badge" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Statsmodels-5C5C5C?style=for-the-badge&logo=python&logoColor=white" height="30" alt="statsmodels badge" />
 
 </div>
 
 
+---
 
 ## 📚 Proyectos destacados
 
@@ -116,21 +109,19 @@ Creo en aprender a fondo, construyendo sobre una base sólida y desarrollando un
 
 
 
-###
+---
 
 <div align="center">
-  
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=kumichin&theme=tokyonight&row=1&column=6&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
-  
-  <p></p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumichin&radius=16&theme=tokyo-night&area=true&hide_border=false&hide_title=true" height="300" alt="activity-graph graph" />
+  <p></p>
+  <p></p>
+  <img src="https://github-profile-trophy.vercel.app/?username=kumichin&theme=tokyonight&row=1&column=6&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
 </div>
 
 
 ---
 ---
-> "La excelencia no es un acto, es un hábito." 😉
+> "La excelencia no es un acto, es un hábito. En datos, cada línea de código cuenta." 😉
 ---
 ---
 
