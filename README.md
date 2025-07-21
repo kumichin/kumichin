@@ -10,18 +10,17 @@ Soy una entusiasta de los datos y la inteligencia artificial, construyendo una b
 
 📬 Me puedes encontrar aquí:
 <div align="center">
-  <a href="https://www.linkedin.com/in/kumiko-aisaka" target="_blank">
+  <a href="https://www.linkedin.com/in/kumiko-aisaka" target="_blank" style="margin: 0 8px;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://dev.to/kumichin" target="_blank">
+  <a href="https://dev.to/kumichin" target="_blank" style="margin: 0 8px;">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo" />
   </a>
- 
-  <a href="https://www.kaggle.com/fatimais" target="_blank">
+  <a href="https://www.kaggle.com/fatimais" target="_blank" style="margin: 0 8px;">
     <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="kaggle logo" />
   </a>
- 
 </div>
+
 
 
 
@@ -56,8 +55,6 @@ Soy una entusiasta de los datos y la inteligencia artificial, construyendo una b
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="60" alt="scikit-learn logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo" />
@@ -80,6 +77,8 @@ Soy una entusiasta de los datos y la inteligencia artificial, construyendo una b
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" height="30" alt="plotly badge" />
   <img width="8" />
   <img src="https://img.shields.io/badge/Dash-3F4F75?style=for-the-badge&logo=python&logoColor=white" height="30" alt="dash badge" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="30" alt="scikit-learn badge" />
   <img width="8" />
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=python&logoColor=white" height="30" alt="scipy badge" />
   <img width="8" />
