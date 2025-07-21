@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 Soy una entusiasta de los datos y la inteligencia artificial, construyendo una base sólida en estadística, programación y modelado. Mi objetivo: convertirme en una profesional altamente competente, capaz de transformar datos en decisiones con valor real.
 
 📬 Me puedes encontrar aquí:
