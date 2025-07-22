@@ -86,7 +86,7 @@ Soy una entusiasta de los datos y la inteligencia artificial, construyendo una b
 
 </div>
 
-
+---
 ---
 
 ## 📚 Proyectos destacados
