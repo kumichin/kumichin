@@ -98,10 +98,10 @@ Soy una entusiasta de los datos y la inteligencia artificial, construyendo una b
         <img src="https://raw.githubusercontent.com/kumichin/Analisis-empleos-ia-2025/main/img/Distribuci%C3%B3n_de_compa%C3%B1ias_por_ciudad_con_tama%C3%B1o_seg%C3%BAn_n%C3%BAmero_de_ofertas.png" height="200"alt="Distribución de compañias por ciudad" />
       </a>
       <h4 style="margin: 10px 0 4px 0;">
-        <a href="https://github.com/kumichin/Analisis-empleos-ia-2025">🧠 Análisis empleos IA 2025 en EE.UU</a>
+        <a href="https://github.com/kumichin/Analisis-empleos-ia-2025">🔗 Análisis empleos IA 2025 en EE.UU</a>
       </h4>
       <p style="margin: 0; font-size: 14px;">
-      Análisis avanzado de ofertas de empleos de IA (EE.UU,2025). **EDA avanzado**, **feature engineering**, **random forest**, visualizaciones interactivas con **Plotly** y un **insight accionable**.
+     Análisis avanzado de ofertas de empleo en IA (EE.UU, 2025) con <b>EDA</b>, <b>feature engineering</b>, imputación con <b>Random Forest</b> y <b>visualizaciones interactivas con Plotly</b>. Termina en un <b>insight accionable</b>.
       </p>
     </td>
 <!--  
