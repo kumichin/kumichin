@@ -93,7 +93,7 @@ Soy una entusiasta de los datos y la inteligencia artificial, construyendo una b
 
 <table>
   <tr>
-     <td align="left" valign="top" width="450" style="border:1px solid #ddd; border-radius:20px; padding:10px;">
+     <td align="left" valign="top" width="400" style="border:1px solid #ddd; border-radius:20px; padding:10px;">
       <a href="https://github.com/kumichin/Analisis-empleos-ia-2025">
         <img src="https://raw.githubusercontent.com/kumichin/Analisis-empleos-ia-2025/main/img/Distribuci%C3%B3n_de_compa%C3%B1ias_por_ciudad_con_tama%C3%B1o_seg%C3%BAn_n%C3%BAmero_de_ofertas.png" height="200"alt="Distribución de compañias por ciudad" />
       </a>
