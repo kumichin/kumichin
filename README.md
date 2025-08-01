@@ -95,7 +95,7 @@ Soy una entusiasta de los datos y la inteligencia artificial, construyendo una b
   <tr>
     <td align="center" valign="top" width="220">
       <a href="[https://github.com/tu_usuario/proyecto-analisis-salarial](https://github.com/kumichin/Analisis-empleos-ia-2025/tree/main)">
-        <img src="img/Distribución_de_compañias_por_ciudad_con_tamaño_según_número_de_ofertas.png" width="200" alt="Analisis empleos IA 2025 en EE.UU EDA + random forest + visualizaciones" />
+        <img src="https://github.com/kumichin/Analisis-empleos-ia-2025/blob/main/img/Distribuci%C3%B3n_de_compa%C3%B1ias_por_ciudad_con_tama%C3%B1o_seg%C3%BAn_n%C3%BAmero_de_ofertas.png" width="200" alt="Analisis empleos IA 2025 en EE.UU EDA + random forest + visualizaciones" />
       </a>
       <br/>
       <a href="https://github.com/tu_usuario/proyecto-analisis-salarial"><b>Proyecto Análisis Salarial</b></a>
