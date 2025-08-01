@@ -91,6 +91,11 @@ Soy una entusiasta de los datos y la inteligencia artificial, construyendo una b
 
 ## 📚 Proyectos destacados
 
+### [📊 Proyecto Análisis Salarial](https://github.com/tu_usuario/proyecto-analisis-salarial)
+Análisis avanzado de salarios en EE.UU. con visualizaciones interactivas y modelado predictivo.
+
+![Captura de Proyecto](https://github.com/tu_usuario/proyecto-analisis-salarial/raw/main/captura.png)
+
 - **[Análisis exploratorio profesional (EDA + Plotly + Dash)](https://github.com/kumichin/Analisis-empleos-ia-2025/tree/main)**  
   Exploración avanzada de ofertas laborales en IA y datos de EE.UU | 2025 (700+ registros). Extracción de insights, modelado predictivo para imputar nulos y visualizaciones interactivas con plotly.
   
