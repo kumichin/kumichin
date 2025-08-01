@@ -101,7 +101,7 @@ Soy una entusiasta de los datos y la inteligencia artificial, construyendo una b
         <a href="https://github.com/kumichin/Analisis-empleos-ia-2025">🧠 Análisis empleos IA 2025 en EE.UU</a>
       </h4>
       <p style="margin: 0; font-size: 14px;">
-      Análisis avanzado de ofertas de empleos de IA (EE.UU,2025). EDA avanzado, feature engineering, random forest, visualizaciones interactivas con Plotly y un insight accionable.
+      Análisis avanzado de ofertas de empleos de IA (EE.UU,2025). **EDA avanzado**, **feature engineering**, **random forest**, visualizaciones interactivas con **Plotly** y un **insight accionable**.
       </p>
     </td>
 <!--  
@@ -130,7 +130,9 @@ Soy una entusiasta de los datos y la inteligencia artificial, construyendo una b
   
 - 🛡️ **Detección de fraudes en tarjetas bancarias**  
   Desarrollo de un modelo predictivo para clasificación de transacciones legítimas y fraudulentas. Trabajo con datasets reales y técnicas de ingeniería de características.(En construcción como parte de mi portfolio profesional)
-- **Muchos más proyectos se encuentran en camino**
+
+
+---
 
 🔗 *Todos los notebooks están en mi repositorio, bien estructurados y listos para producción.*
 
