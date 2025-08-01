@@ -91,10 +91,37 @@ Soy una entusiasta de los datos y la inteligencia artificial, construyendo una b
 
 ## 📚 Proyectos destacados
 
-### [📊 Proyecto Análisis Salarial](https://github.com/tu_usuario/proyecto-analisis-salarial)
-Análisis avanzado de salarios en EE.UU. con visualizaciones interactivas y modelado predictivo.
-
-![Captura de Proyecto](https://github.com/tu_usuario/proyecto-analisis-salarial/raw/main/captura.png)
+<table>
+  <tr>
+    <td align="center" valign="top" width="220">
+      <a href="[https://github.com/tu_usuario/proyecto-analisis-salarial](https://github.com/kumichin/Analisis-empleos-ia-2025/tree/main)">
+        <img src="img/Distribución_de_compañias_por_ciudad_con_tamaño_según_número_de_ofertas.png" width="200" alt="Analisis empleos IA 2025 en EE.UU EDA + random forest + visualizaciones" />
+      </a>
+      <br/>
+      <a href="https://github.com/tu_usuario/proyecto-analisis-salarial"><b>Proyecto Análisis Salarial</b></a>
+      <br/>
+      Análisis avanzado de salarios con visualizaciones interactivas.
+    </td>
+    <td align="center" valign="top" width="220">
+      <a href="https://github.com/tu_usuario/proyecto-chatbot-ia">
+        <img src="https://github.com/tu_usuario/proyecto-chatbot-ia/raw/main/demo.gif" width="200" alt="Proyecto Chatbot IA" />
+      </a>
+      <br/>
+      <a href="https://github.com/tu_usuario/proyecto-chatbot-ia"><b>Proyecto Chatbot IA</b></a>
+      <br/>
+      Chatbot con NLP y modelos generativos para atención al cliente.
+    </td>
+    <td align="center" valign="top" width="220">
+      <a href="https://github.com/tu_usuario/proyecto-dashboard-ventas">
+        <img src="https://github.com/tu_usuario/proyecto-dashboard-ventas/raw/main/dashboard.png" width="200" alt="Dashboard de Ventas" />
+      </a>
+      <br/>
+      <a href="https://github.com/tu_usuario/proyecto-dashboard-ventas"><b>Dashboard de Ventas</b></a>
+      <br/>
+      Visualización interactiva con Plotly y Streamlit.
+    </td>
+  </tr>
+</table>
 
 - **[Análisis exploratorio profesional (EDA + Plotly + Dash)](https://github.com/kumichin/Analisis-empleos-ia-2025/tree/main)**  
   Exploración avanzada de ofertas laborales en IA y datos de EE.UU | 2025 (700+ registros). Extracción de insights, modelado predictivo para imputar nulos y visualizaciones interactivas con plotly.
