@@ -102,6 +102,7 @@ Soy una entusiasta de los datos y la inteligencia artificial, construyendo una b
       <br/>
       Análisis avanzado de salarios con visualizaciones interactivas.
     </td>
+    
     <td align="center" valign="top" width="220">
       <a href="https://github.com/tu_usuario/proyecto-chatbot-ia">
         <img src="https://github.com/tu_usuario/proyecto-chatbot-ia/raw/main/demo.gif" width="200" alt="Proyecto Chatbot IA" />
