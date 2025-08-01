@@ -94,15 +94,14 @@ Soy una entusiasta de los datos y la inteligencia artificial, construyendo una b
 <table>
   <tr>
     <td align="center" valign="top" width="220">
-      <a href="[https://github.com/tu_usuario/proyecto-analisis-salarial](https://github.com/kumichin/Analisis-empleos-ia-2025/tree/main)">
-        <img src="https://github.com/kumichin/Analisis-empleos-ia-2025/blob/main/img/Distribuci%C3%B3n_de_compa%C3%B1ias_por_ciudad_con_tama%C3%B1o_seg%C3%BAn_n%C3%BAmero_de_ofertas.png" width="200" alt="Analisis empleos IA 2025 en EE.UU EDA + random forest + visualizaciones" />
+      <a href="https://github.com/kumichin/Analisis-empleos-ia-2025/tree/main">
+        <img src="https://raw.githubusercontent.com/kumichin/Analisis-empleos-ia-2025/main/img/Distribuci%C3%B3n_de_compa%C3%B1ias_por_ciudad_con_tama%C3%B1o_seg%C3%BAn_n%C3%BAmero_de_ofertas.png" width="200" alt="Distribución de compañias por ciudad con tamaño según número de ofertas" />
       </a>
       <br/>
-      <a href="https://github.com/tu_usuario/proyecto-analisis-salarial"><b>Proyecto Análisis Salarial</b></a>
+      <a href="https://github.com/kumichin/Analisis-empleos-ia-2025"><b>Analisis empleos IA 2025 en EE.UU</b></a>
       <br/>
-      Análisis avanzado de salarios con visualizaciones interactivas.
-    </td>
-    
+      Análisis avanzado de ofertas de empleos relacionados con la IA en EE.UU 2025. Aplico EDA avazado, feature engeenering, random forest para imputar datos de una columnas, visualizaciones interactivas con plotly y un insight accionable.
+<!--     </td>
     <td align="center" valign="top" width="220">
       <a href="https://github.com/tu_usuario/proyecto-chatbot-ia">
         <img src="https://github.com/tu_usuario/proyecto-chatbot-ia/raw/main/demo.gif" width="200" alt="Proyecto Chatbot IA" />
@@ -120,7 +119,7 @@ Soy una entusiasta de los datos y la inteligencia artificial, construyendo una b
       <a href="https://github.com/tu_usuario/proyecto-dashboard-ventas"><b>Dashboard de Ventas</b></a>
       <br/>
       Visualización interactiva con Plotly y Streamlit.
-    </td>
+    </td> -->
   </tr>
 </table>
 
