@@ -126,8 +126,7 @@ Soy una entusiasta de los datos y la inteligencia artificial, construyendo una b
   </tr>
 </table>
 
-- **[Análisis exploratorio profesional (EDA + Plotly + Dash)](https://github.com/kumichin/Analisis-empleos-ia-2025/tree/main)**  
-  Exploración avanzada de ofertas laborales en IA y datos de EE.UU | 2025 (700+ registros). Extracción de insights, modelado predictivo para imputar nulos y visualizaciones interactivas con plotly.
+  ## 📚 ¿En que estoy trabajando ahora?
   
 - 🛡️ **Detección de fraudes en tarjetas bancarias**  
   Desarrollo de un modelo predictivo para clasificación de transacciones legítimas y fraudulentas. Trabajo con datasets reales y técnicas de ingeniería de características.(En construcción como parte de mi portfolio profesional)
