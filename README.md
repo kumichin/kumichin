@@ -101,7 +101,7 @@ Soy una entusiasta de los datos y la inteligencia artificial, construyendo una b
         <a href="https://github.com/kumichin/Analisis-empleos-ia-2025">🧠 Análisis empleos IA 2025 en EE.UU</a>
       </h4>
       <p style="margin: 0; font-size: 14px;">
-        EDA, feature engineering, imputación con Random Forest y visualizaciones interactivas con Plotly.
+      Análisis avanzado de ofertas de empleos de IA (EE.UU,2025). EDA avanzado, feature engineering, random forest, visualizaciones interactivas con Plotly y un insight accionable.
       </p>
     </td>
 <!--  
