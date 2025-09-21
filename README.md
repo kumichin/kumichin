@@ -55,13 +55,6 @@ Soy una entusiasta de los datos y la inteligencia artificial, construyendo una b
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 
-
-### 📦 Entornos
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/documentation)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/)
-
-
-
 ### 📦 Librerías / Frameworks
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
@@ -72,6 +65,11 @@ Soy una entusiasta de los datos y la inteligencia artificial, construyendo una b
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
 [![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=python&logoColor=white)](https://www.scipy.org/)
 [![Statsmodels](https://img.shields.io/badge/Statsmodels-5C5C5C?style=for-the-badge&logo=python&logoColor=white)](https://www.statsmodels.org/stable/index.html)
+
+
+### 📦 Entornos
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/documentation)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/)
 
 
 ### 📦 Git & GitHub
