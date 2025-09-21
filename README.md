@@ -73,6 +73,11 @@ Soy una entusiasta de los datos y la inteligencia artificial, construyendo una b
 [![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=python&logoColor=white)](https://www.scipy.org/)
 [![Statsmodels](https://img.shields.io/badge/Statsmodels-5C5C5C?style=for-the-badge&logo=python&logoColor=white)](https://www.statsmodels.org/stable/index.html)
 
+
+### 📦 Git & GitHub
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git badge">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge">
+
 </div>
 
 
