@@ -149,7 +149,8 @@ Creo en aprender a fondo, construyendo sobre una base sólida y desarrollando un
 
 ---
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumichin&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumichin&layout=compact&theme=tokyonight&langs_count=10&hide=html,css,jupyter%20notebook)
+
 
 ---
 ---
