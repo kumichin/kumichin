@@ -147,6 +147,9 @@ Creo en aprender a fondo, construyendo sobre una base sólida y desarrollando un
   <img src="https://github-profile-trophy.vercel.app/?username=kumichin&theme=tokyonight&row=1&column=6&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
 </div>
 
+---
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumichin&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ---
