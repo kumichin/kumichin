@@ -148,11 +148,7 @@ Creo en aprender a fondo, construyendo sobre una base sólida y desarrollando un
 </div>
 
 ---
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumichin&layout=compact&theme=tokyonight&langs_count=10&hide=html,css,jupyter%20notebook)
 
-
----
 ---
 > "La excelencia no es un acto, es un hábito. En datos, cada línea de código cuenta." 😉
 ---
